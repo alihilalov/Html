@@ -1,0 +1,16 @@
+h2{
+    color: crimson;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.class{
+    background-color: aquamarine;
+}
+#id{
+    font-size: x-large;
+}
+.margin{
+    margin: auto;
+}
